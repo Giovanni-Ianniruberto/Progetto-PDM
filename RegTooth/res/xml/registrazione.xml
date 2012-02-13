@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<registrazione>
+		<corso>Nessun corso inserito</corso>
+		<professore>Nessun professore inserito</professore>
+		<numero>Lezione numero...</numero>
+		<data>"Gli passo la data"</data>
+		<aula>Nessuna aula inserita</aula>
+		<note>Inserisci delle note personali</note>
+</registrazione>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orderingFromXml="true">
+        <PreferenceCategory
+			android:title="@string/pref_tit_1"
+			android:order="1">
+                <ListPreference
+                	android:title="@string/pref_lingua"
+                	android:summary="@string/summary_lingua"
+                    android:key="prefLingua"
+                    android:entries="@array/arraylingua"
+                    android:entryValues="@array/arraylingua" />
+        </PreferenceCategory>
+        
+		<PreferenceCategory 
+		    android:title="Impostazioni registrazione"
+			android:order="2">
+				<ListPreference 
+					android:title="@string/pref_fomato"
+					android:summary="@string/summary_formato"
+					android:key="formato"
+					android:entries="@array/arrayformato"
+					android:entryValues="@array/arrayformato">
+				</ListPreference>		
+				<ListPreference 
+				    android:title="@string/pref_qualita"
+				    android:summary="@string/summary_qualita"
+				    android:key="qualita"
+				    android:entries="@array/arrayqualita"
+				    android:entryValues="@array/arrayqualita">
+				</ListPreference>
+		</PreferenceCategory>
+</PreferenceScreen>

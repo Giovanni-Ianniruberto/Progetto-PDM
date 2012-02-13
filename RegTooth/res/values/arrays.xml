@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="array_data">
+		<item>Opzioni</item>
+		<item>Lista Reg.</item>
+	</string-array>
+
+	<string-array name="arraylingua">
+		<item>Italian</item>
+		<item>English</item>
+	</string-array>	
+	
+	<string-array name="arrayformato">
+		<item>3gp</item>
+		<item>mpeg</item>
+	</string-array>
+	
+	<string-array name="arrayqualita">
+		<item>mono/8bit/8KHz</item>
+		<item>stereo/16bit/44.1KHz</item>
+		<item>stereo/16bit/96KHz</item>
+	</string-array>
+	
+</resources>

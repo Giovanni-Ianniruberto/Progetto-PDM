@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rosso">#FF0000</color>
+    <color name="bianco">#FFFFFF</color>
+    <color name="rossopaco">#70FF0000</color>
+    <color name="testoAndroid">#b9bab9</color>
+    
+</resources>

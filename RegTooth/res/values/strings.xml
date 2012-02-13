@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RegToothActivity!</string>
+    <string name="app_name">RegTooth</string>
+    <string name="displayRec">REC</string>
+    <string name="opzioni">Opzioni</string>
+    <string name="listareg">Lista registrazioni</string>
+    <string name="pausa">PAUSA</string>
+    <string name="rec_display">REC</string>
+    <string name="stop_display">STOP</string>
+    <string name="sms_toast">Registrazione avvenuta</string>
+    <string name="pref_tit_1">Impostazioni Generali</string>
+    <string name="pref_tit_2">Impostazioni registrazione</string>
+    <string name="pref_lingua">Lingua</string>
+    <string name="pref_fomato">Formato</string>
+    <string name="pref_qualita">Qualità</string>
+    <string name="summary_lingua">Seleziona la lingua</string>
+    <string name="summary_formato">Seleziona il formato audio</string>
+    <string name="summary_qualita">Seleziona la qualità audio</string>
+    <string name="errore_formato_pref">Nessuno formato selezionato</string>
+    <string name="btn_condividi">Condividi</string>
+    <string name="btn_elimina">Elimina</string>
+    <string name="btn_eliminatutto">Elimina Tutto</string>
+    <string name="btn_salva">Salva</string>
+    <string name="btn_indietro">Indietro</string>
+    <string name="btn_start">START</string>
+    <string name="btn_stop">STOP</string>
+    <string name="btn_cancellatesto">Cancella testo</string>
+    <string name="btn_pausa">PAUSA</string>
+    <string name="dialog_titolo">ATTENZIONE!</string>
+    <string name="dialog_messaggio">Sei sicuro di voler eliminare tutto?</string>
+    <string name="dialog_si">SI</string>
+    <string name="dialog_no">NO</string>
+
+</resources>
